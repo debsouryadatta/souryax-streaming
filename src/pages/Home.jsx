@@ -11,7 +11,13 @@ const Home = () => {
     <Row rowID='2' title='Popular' fetchURL={requests.requestPopular} />
     <Row rowID='3' title='Trending' fetchURL={requests.requestTrending} />
     <Row rowID='4' title='Top Rated' fetchURL={requests.requestTopRated} />
-    <Row rowID='5' title='Horror' fetchURL={requests.requestHorror} />
+    <Row rowID='5' title='Action' fetchURL={requests.requestAction} />
+    <Row rowID='6' title='Adventure' fetchURL={requests.requestAdventure} />
+    <Row rowID='7' title='Drama' fetchURL={requests.requestDrama} />
+    <Row rowID='8' title='Thriller' fetchURL={requests.requestThriller} />
+    <Row rowID='9' title='Comedy' fetchURL={requests.requestComedy} />
+    <Row rowID='10' title='Animation' fetchURL={requests.requestAnimation} />
+    <Row rowID='11' title='Horror' fetchURL={requests.requestHorror} />
     </>
   )
 }

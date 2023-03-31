@@ -1,6 +1,7 @@
 // To DO: 1) Make Read More in the Main Component. 2) Add more genres in the app. 3) Login with Google account 4) Pop up card on click on the movies
 
 // Doubt - How (onAuthStateChanged) works?
+// API Key: bc82d6bf08fa029ebf385caf1382f11c https://api.themoviedb.org/3/genre/movie/list?api_key=bc82d6bf08fa029ebf385caf1382f11c
 
 // * 1. Creating the react app with tailwind css and installing many packages like - axios react-router-dom firebase react-icons tailwind-scrollbar-hide
 
@@ -32,4 +33,10 @@
 // * 15. In the Account.js -> Inside the SavedShows component, showing the movies that are saved in the firestore using onSnapshot 
 
 // * 16. Creating a deleteShow function using update function of firestore
+
+
+
+// * Self:
+// * 17. Done with the floating card -> Used modal of MUI and also copied contents from the main component
+// * 18. Done with the adding of more genres
 
