@@ -40,3 +40,5 @@
 // * 17. Done with the floating card -> Used modal of MUI and also copied contents from the main component
 // * 18. Done with the adding of more genres
 
+// * 19. Done with the search component - Search icon on navbar, Create a new search page, adding searchbar from flowbite, using query api from TMDB.
+
